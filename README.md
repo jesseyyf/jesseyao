@@ -1,13 +1,4 @@
 <html>
-<style>
-body {
-    font-size: 20px;
-}
-</style>
-
-<head>
-<title> Yunfei Yao </title>
-</head>
 
 <body>
 <h1 align="center"> Yunfei Yao </h1>
