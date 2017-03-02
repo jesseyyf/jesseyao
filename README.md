@@ -3,15 +3,6 @@
 body {
     font-size: 20px;
 }
-h1 { 
-    display: block;
-    font-size: 2.8em;
-    margin-top: 0.2em;
-    margin-bottom: 0em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-}
 </style>
 
 <head>
